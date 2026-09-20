@@ -1,0 +1,15 @@
+.env
+*.env
+!.env.example
+
+# runtime de Hermes (no versionar)
+logs/
+cache/
+state.db*
+*.lock
+sessions/
+audio_cache/
+image_cache/
+backups/
+.curator_backups/
+pending_messages/

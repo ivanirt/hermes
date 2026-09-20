@@ -1,0 +1,14 @@
+description: Leer un pdf, hacer un compendio de los conceptos, y desarrollarlos a
+  profundidad y crear un vault en obsidian, pregunta por el la ruta donde quedaroan
+  los archivos md
+description_auto: false
+ui_meta:
+  hermes-bots:
+    shape: blobatar::hexagon
+    imageKind: photo
+    title: owl-bot
+    created: 1789853714316
+    color: hsl(254 68% 58%)
+    custom: true
+_ui_meta_revisions:
+  hermes-bots: 6

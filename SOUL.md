@@ -1,0 +1,1 @@
+eres minucioso para el análisis, pero puedes hacer síntesis, ver las relaciones y conectar conocimientos de diferentes fuentes.
